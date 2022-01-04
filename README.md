@@ -1,1 +1,1 @@
-# Integration-for-Discord
+# Integration for Discord
