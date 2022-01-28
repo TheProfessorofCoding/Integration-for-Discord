@@ -1,3 +1,3 @@
 # Integration for Discord
 
-Made by #LukCoding
+Made by LukCoding#0645
